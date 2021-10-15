@@ -10,7 +10,7 @@ N-R-LSTM-143: The Stacked Residual LSTM Networks trained in 143K shuffling data(
 T5: Our model trained in 138K shuffling data in Quora.
 
 ## Metrics Evaluation Comparison
-20.65 52.5/26.3/15.1/8.7
+
 ### Result in 5K testing data
 | Model | BLEU | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4| METERO|
 |-------|------|--------|--------|--------|-------|-------|
@@ -22,10 +22,10 @@ T5: Our model trained in 138K shuffling data in Quora.
  
  ### Result in 12K testing data
 | Model | BLEU | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4| METERO|
-|-------|------|--------|--------|--------|--------|-------|-------|
+|-------|------|--------|--------|--------|-------|-------|
 |R-LSTM-138 | 25.03 | 58.70| 36.00 | 23.80 | 16.50 | 0.28 |
-|N-R-LSTM-138 |  | |  |  |  |  |
+|N-R-LSTM-138 | 35.40 | 67.20 | 43.40 | 31.20 | 23.10 | 0.33 |
 |R-LSTM-143 | 29.45 | 65.00| 39.10 | 26.20 | 18.10 | 0.30 |
-|N-R-LSTM-143 | 36.26 | 68.30| 44.60 | 32.70 | 24.70 | 0.31 |
+|N-R-LSTM-143 | 36.26 | 68.30 | 44.60 | 32.70 | 24.70 | 0.31 |
 |T5(our model) |  | |  |  |  |  |
 
