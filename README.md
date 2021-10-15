@@ -12,8 +12,8 @@ T5: Our model trained in 138K shuffling data in Quora.
 ## Metrics Evaluation Comparison
 20.65 52.5/26.3/15.1/8.7
 ### Result in 5K testing data
-| Model | BLEU | BLEU-1 | BLEU-2 | BLEU-2 | BLEU-3 | BLEU-4| METERO|
-|-------|------|--------|--------|--------|--------|-------|-------|
+| Model | BLEU | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4| METERO|
+|-------|------|--------|--------|--------|-------|-------|
 |R-LSTM-138 | 19.80 | 52.70| 25.90 | 14.40 | 7.90 | 0.27 |
 |N-R-LSTM-138 | 20.65 | 52.50 | 26.30 | 15.10 | 8.70 | 0.28 |
 |R-LSTM-143 | 23.54 | 57.10| 30.40 | 18.50 | 11.20 | 0.28 |
@@ -21,7 +21,7 @@ T5: Our model trained in 138K shuffling data in Quora.
 |T5(our model) | 26.15 | 61.20| 34.00 | 20.70 | 12.50 | 0.31 |
  
  ### Result in 12K testing data
-| Model | BLEU | BLEU-1 | BLEU-2 | BLEU-2 | BLEU-3 | BLEU-4| METERO|
+| Model | BLEU | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4| METERO|
 |-------|------|--------|--------|--------|--------|-------|-------|
 |R-LSTM-138 | 25.03 | 58.70| 36.00 | 23.80 | 16.50 | 0.28 |
 |N-R-LSTM-138 |  | |  |  |  |  |
