@@ -31,3 +31,10 @@ T5-138: Our model trained in 138K shuffling data in Quora.
 |R-LSTM-143| why does quora censor questions they could like ? |
 |T5-138(our model)| how does quora survive when it censors so many things? |
 |Target| why does quora censor questions they do n't like ? |
+
+| Source | what does gary johnson have to do to have a chance of winning in november ?|
+|--------|----------------|
+|R-LSTM-138| how does the libertarian candidate gary johnson have a shot in winning the 2016 presidential election ? |
+|R-LSTM-143| what will happen to gary johnson to win ? |
+|T5-138(our model)| what should gary johnson do to win the election? |
+|Target| can gary johnson win ? |
