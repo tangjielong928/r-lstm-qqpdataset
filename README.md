@@ -24,6 +24,10 @@ T5-138: Our model trained in 138K shuffling data in Quora.
 |T5-138(our model) | 34.66 | 71.10 | 45.70 | 32.00 | 23.00 | 0.34 |
 
 ## Generated Sentences Comparison
-|       Quora      |
-|------------------|
+
 | Source | asd asd asd as |
+|--------|----------------|
+|R-LSTM-138| asd asd asd |
+|R-LSTM-143| asd asd asd |
+|T5-138(our model)| asd asd asd |
+|Target| asd asd asd |
