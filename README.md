@@ -46,3 +46,11 @@ We give three cases of generated instances shown as below:
 |R-LSTM-143| is android smarter than ios ? |
 |T5-138(our model)| is android more secure than ios ? |
 |Target| are iphones more secure than android phones ? |
+
+## Reference
+@inproceedings{Prakash2016NeuralPG,
+  title={Neural Paraphrase Generation with Stacked Residual LSTM Networks},
+  author={Aaditya Prakash and Sadid A. Hasan and Kathy Lee and Vivek Datla and Ashequl Qadir and Joey Liu and Oladimeji Farri},
+  booktitle={COLING},
+  year={2016}
+}
