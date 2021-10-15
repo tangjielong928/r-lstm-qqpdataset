@@ -25,8 +25,9 @@ T5-138: Our model trained in 138K shuffling data in Quora.
 
 ## Generated Sentences Comparison
 
-| Source | asd asd asd as |
-|R-LSTM-138| asd asd asd |
-|R-LSTM-143| asd asd asd |
-|T5-138(our model)| asd asd asd |
-|Target| asd asd asd |
+| Source | how does quora expect to stay in business when they censor so many things ?|
+|--------|----------------|
+|R-LSTM-138| how does quora stay in business when they agrees ? |
+|R-LSTM-143| why does quora censor questions they could like ? |
+|T5-138(our model)| how does quora survive when it censors so many things? |
+|Target| why does quora censor questions they do n't like ? |
