@@ -26,7 +26,6 @@ T5-138: Our model trained in 138K shuffling data in Quora.
 ## Generated Sentences Comparison
 
 | Source | asd asd asd as |
-|--------|----------------|
 |R-LSTM-138| asd asd asd |
 |R-LSTM-143| asd asd asd |
 |T5-138(our model)| asd asd asd |
