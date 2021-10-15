@@ -2,11 +2,11 @@
 This is an implementation of *Neural Paraphrase Generation with Stacked Residual LSTM Networks* in [Quora dataset](https://data.quora.com/First-Quora-Dataset-ReleaseQuestion-Pairs). We divided different training and test sets and evaluated the model with Metrics (BLEU and METERO) in them. And we compare this model in Quora with our designed model. 
 
 ## Baseline Model
-we train 4 different Stacked Residual LSTM models in different training set.
-R-LSTM-138: The Stacked Residual LSTM Networks trained in 138K shuffling data in Quora.
-R-LSTM-143: The Stacked Residual LSTM Networks trained in 143K shuffling data in Quora.
-N-R-LSTM-138: The Stacked Residual LSTM Networks trained in 138K shuffling data(the same as R-LSTM-138 training data) in Quora, but with richer vocabulary(28K).
-N-R-LSTM-143: The Stacked Residual LSTM Networks trained in 143K shuffling data(the same as R-LSTM-143 training data) in Quora, but with richer vocabulary(28K).
+we train 4 different Stacked Residual LSTM models in different training set.<br />
+R-LSTM-138: The Stacked Residual LSTM Networks trained in 138K shuffling data in Quora.<br />
+R-LSTM-143: The Stacked Residual LSTM Networks trained in 143K shuffling data in Quora.<br />
+N-R-LSTM-138: The Stacked Residual LSTM Networks trained in 138K shuffling data(the same as R-LSTM-138 training data) in Quora, but with richer vocabulary(28K).<br />
+N-R-LSTM-143: The Stacked Residual LSTM Networks trained in 143K shuffling data(the same as R-LSTM-143 training data) in Quora, but with richer vocabulary(28K).<br />
 T5: Our model trained in 138K shuffling data in Quora.
 
 ## Metrics Evaluation Comparison
