@@ -1,5 +1,5 @@
 # r-lstm-qqpdataset
-This is an implementation of *Neural Paraphrase Generation with Stacked Residual LSTM Networks* in [Quora dataset](https://data.quora.com/First-Quora-Dataset-ReleaseQuestion-Pairs). We divided different training and test sets and evaluated the model with Metrics (BLEU and METERO) in them. And we compare this model in Quora with our designed model.
+This is an implementation of *Neural Paraphrase Generation with Stacked Residual LSTM Networks* in [Quora dataset](https://data.quora.com/First-Quora-Dataset-ReleaseQuestion-Pairs). We divided different training and test sets and evaluated the model with Metrics (BLEU and METERO) in them. And we compare this model in Quora with our designed model.<br />
 (note: It is a code reusing of [Neural Paraphrase Generation](https://github.com/aaronlifenghan/neural-paraphrase-generation))<br />
 
 ## Baseline Model
